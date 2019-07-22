@@ -20,7 +20,7 @@ Dimensions tables: songs, artists, users, and start_time
 
 #### ETL Pipeline
 * Create a cluster in Redshift
-* Create tables as needed based on the star schema
+* Create tables as needed based on the star schema in the database
 * Copy, load, and transform the data that are stored in the S3 bucket <br>
 * Insert the data to the corresponding tables
 * Test the database
